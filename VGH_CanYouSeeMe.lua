@@ -54,7 +54,7 @@ end
      Name = "VGH_Hub",
     Callback = function()
       
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VGH-GHuy17/VGH_MenuV2/refs/heads/main/VGH_Hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VGH-GHuy17/VGH-HubV3/refs/heads/main/VGH_Hub.lua"))()
  end
  })
 
